@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:icon="@drawable/restaurant_marker"
+    android:enabled="true"
+    android:title="Restaurant"
+    app:showAsAction="ifRoom"
+    android:id="@+id/action_restaurant"/>
+    <item android:icon="@drawable/hair_care_marker"
+        android:enabled="true"
+        android:title="Coiffeur"
+        app:showAsAction="ifRoom"
+        android:id="@+id/action_barber"/>
+    <item android:icon="@drawable/shopping_mall_marker"
+        android:enabled="true"
+        android:title="Superette"
+        app:showAsAction="ifRoom"
+        android:id="@+id/action_shopping"/>
+    <item android:icon="@drawable/hospital_marker"
+        android:enabled="true"
+        android:title="Hopital"
+        app:showAsAction="ifRoom"
+        android:id="@+id/action_hospital"/>
+    <item android:icon="@drawable/gym_marker"
+        android:enabled="true"
+        android:title="Gym"
+        app:showAsAction="ifRoom"
+        android:id="@+id/action_gym"/>
+</menu>

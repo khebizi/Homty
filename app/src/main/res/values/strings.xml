@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Homty</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="current_location">Localisation actuelle</string>
+    <string name="search_location">Rechercher</string>
+    <string name="place_name">Nom du lieu : </string>
+    <string name="place_addr">Adresse du lieu : </string>
+    <string name="open_now">Ouvert maintenant : </string>
+    <string name="show_on_map">Voir sur la carte</string>
+    <string name="hospitals">Hôpitaux</string>
+    <string name="malls">Superettes</string>
+    <string name="gyms">Gyms</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="barbers">Coiffeurs</string>
+    <string name="see_nearby">Voir les plus proches</string>
+    <string name="register_btn">Créer un compte</string>
+    <string name="login_btn">Se connecter</string>
+    <string name="email_register">E-mail</string>
+    <string name="pwd_register">Mot de passe</string>
+    <string name="profile">Profile</string>
+    <string name="already_member">Déjà membre ? Se connecter</string>
+    <string name="not_member">Nouveau membre ? Inscrivez-vous</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="forgot_pwd">Mot de passe oublié ?</string>
+    <string name="home">Accueil</string>
+    <string name="name">Nom</string>
+    <string name="phone">Numéro de téléphone</string>
+    <string name="map">Carte</string>
+    <string name="menu">Voir le menu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="menu_principal">
+        <item>Pizzas</item>
+        <item>Sandwichs</item>
+        <item>Boissons</item>
+        <item>Desserts</item>
+    </string-array>
+    <string-array name="pizza">
+        <item>Pizza viande</item>
+        <item>Pizza olive</item>
+        <item>Pizza vegital</item>
+        <item>Pizza fromage </item>
+        <item>Pizza poulet </item>
+        <item>Pizza champignon </item>
+    </string-array>
+    <string-array name="pizza_des">
+        <item>sauce tomate, viande, fromage</item>
+        <item>sauce tomate, olive noir,olive vert, fromage</item>
+        <item>sauce tomate, tomate,persil,poivre</item>
+        <item>sauce tomate,fromage </item>
+        <item>sauce tomate, polet, fromage </item>
+        <item>sauce tomate, champignon, fromage </item>
+    </string-array>
+    <string-array name="pizza_prix">
+        <item>500 dzd</item>
+        <item>300 dzd</item>
+        <item>300 dzd</item>
+        <item>300 dzd </item>
+        <item>400 dzd </item>
+        <item>400 dzd </item>
+    </string-array>
+</resources>
