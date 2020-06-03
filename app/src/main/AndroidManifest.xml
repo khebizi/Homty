@@ -22,6 +22,12 @@
         android:roundIcon="@drawable/homty_logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".home"></activity>
+        <activity android:name=".menuPrinc" />
+        <activity
+            android:name=".menuPizza"
+            android:label="Details"
+            android:parentActivityName=".menuResto" />
         <activity android:name=".menuResto" />
         <activity android:name=".MenuActivity" />
         <activity android:name=".LoginActivity" />
