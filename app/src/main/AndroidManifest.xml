@@ -22,7 +22,10 @@
         android:roundIcon="@drawable/homty_logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".home"></activity>
+        <activity android:name=".menuDessert"></activity>
+        <activity android:name=".menuBoisson" />
+        <activity android:name=".menuSandwich" />
+        <activity android:name=".home" />
         <activity android:name=".menuPrinc" />
         <activity
             android:name=".menuPizza"

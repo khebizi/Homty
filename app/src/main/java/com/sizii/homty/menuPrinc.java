@@ -23,5 +23,23 @@ public class menuPrinc extends AppCompatActivity {
                 startActivity(new Intent(menuPrinc.this,menuPizza.class));
             }
         });
+        button2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(menuPrinc.this,menuSandwich.class));
+            }
+        });
+        button3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(menuPrinc.this,menuBoisson.class));
+            }
+        });
+        button3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(menuPrinc.this,menuDessert.class));
+            }
+        });
     }
 }
